@@ -7,5 +7,5 @@ noBox.addEventListener("mouseover", function() {
 });
 
 yesBox.addEventListener("click", function() {
-    window.location.href = "index3.html";
+    window.location.href = "q3.html";
 });

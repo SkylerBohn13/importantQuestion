@@ -19,5 +19,5 @@ const getRandomNumber = (num) => {
 noBox.addEventListener("mouseenter", moveNoButton);
 
 yesBox.addEventListener("click", function() {
-    window.location.href = "index2.html";
+    window.location.href = "q2.html";
 });
